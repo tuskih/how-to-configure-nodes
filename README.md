@@ -21,28 +21,13 @@ This will take a while, so be patient.
 # Nodes configuration
 Nodes is a difficult plugin to deal with, since it's pretty broken, but i'll do my best.
 
-To actually make territory (nodes) you need the nodes editor, which you can find at http://localhost:8123/editor.html or http://localhost:8123/nodes.html
+To actually make territory (nodes) you need the nodes editor, which you can find at http://localhost:8123/editor.html or http://localhost:8123/nodes.html (Note: This only works if you are self-hosting, if not, you have to find the numerical address of your server (XXX.XXX.XXX.XXX))
 
 Keep in mind that you actually have to make the html file, because the current znodes .jar file doesn't do that automatically, so the file will be here on this repository.
 
 # Installation guide
 After you've downloaded the files from the repository, go to your server's folder, plugins, dynmap and then web, paste the contents of the repository there (!MAKE SURE YOUR SERVER IS STOPPED!)
 
-Start up your server again, this should automatically configure the nodes editor.
-
-# How to use nodes editor
-TODO
-
-
-
-
-
-# Troubleshooting
-Q. The local host site doesn't work, what should I do?
-
-A. Make sure you have downloaded editor.html and nodes.html and followed the installation guide, if it still doesn't work, open up your terminal and type ipconfig, copy the Ipv4 address and replace localhost with your ipv4.
-
-Q.
 
 TODO
 explain how to paint nodes
