@@ -2,9 +2,9 @@
 Guide on how to configure the minecraft plugin nodes, commonly used in big geopolitical servers like Crusalis. (Map Painting)
 
 # Installation
-First, download the znodes plugin at https://modrinth.com/plugin/znodes (minecraft version 1.21.3)
+First, download the [znodes plugin](https://modrinth.com/plugin/znodes)
 
-Download Dynmap at https://modrinth.com/plugin/dynmap (Compatible with minecraft version 1.21.3)
+Download [Dynmap](https://modrinth.com/plugin/dynmap) (Compatible with minecraft version 1.21.3)
 
 # Server
 Make a paper server in version 1.21.3
